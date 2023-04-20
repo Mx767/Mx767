@@ -2,7 +2,7 @@
 #### I'm a new figure in the online world of coding
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Python/HTML/Node
+Skills: Python/HTML/Node/Batch
 
 - 🌱 I’m currently learning: JS/CSS 
 
