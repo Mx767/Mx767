@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mx
 #### I'm a new figure in the online world of coding
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am very interested in Reverse Engineering and Patching
 
 Skills: Python/HTML/Node/Batch
 
